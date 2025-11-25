@@ -1,0 +1,5 @@
+CONCLUSIONES - E2E SAUCEDEMO
+
+1. El flujo de compra fue automatizado exitosamente utilizando Cypress.
+2. Separar los comandos personalizados permite extender el proyecto sin duplicacion.
+3. La estructura organizada por carpetas facilita escalar pruebas E2E para otros sitios.

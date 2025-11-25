@@ -1,0 +1,22 @@
+{
+  "newUser": {
+    "id": 233412123455,
+    "username": "joabozz",
+    "firstName": "adiel",
+    "lastName": "ramirez",
+    "email": "joabozz@mailsac.com",
+    "password": "secret123!",
+    "phone": "1234567890",
+    "userStatus": 1
+  },
+  "updatedUser": {
+    "id": 233412123455,
+    "username": "amisa",
+    "firstName": "adiel",
+    "lastName": "ramirez",
+    "email": "amisa@mailsac.com",
+    "password": "secret123!",
+    "phone": "1234567890",
+    "userStatus": 1
+  }
+}

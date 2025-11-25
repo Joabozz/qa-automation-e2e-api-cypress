@@ -1,0 +1,5 @@
+CONCLUSIONES - API PETSTORE SWAGGER
+
+1. Se verifico la creacion, obtencion, actualizacion y eliminacion de un usuario.
+2. Todos los endpoints respondieron con status 200 según lo esperado.
+5. El flujo completo es reproducible y facil de mantener para futuros tests.
