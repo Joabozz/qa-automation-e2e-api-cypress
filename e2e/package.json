@@ -1,0 +1,7 @@
+{
+  "name": "qa-automation-e2e-api-cypress",
+  "version": "1.0.0",
+  "devDependencies": {
+    "cypress": "^15.7.0"
+  }
+}

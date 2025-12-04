@@ -32,7 +32,7 @@ describe('Purchase Flow - SauceDemo', () => {
 
     // Assert success message
     cy.get('.complete-header')
-      .should('contain', 'THANK YOU FOR YOUR ORDER');
+      .should('contain', 'Thank you for your order!');
   });
 
 });
